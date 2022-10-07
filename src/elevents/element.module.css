@@ -1,0 +1,10 @@
+.species{
+    border: 1px black solid;
+    margin-bottom: 40px;
+    padding-left: 10px;
+
+}
+h1{
+    font-size: medium;
+    max-width: max-content;
+}
